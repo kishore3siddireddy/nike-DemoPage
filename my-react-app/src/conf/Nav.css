@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.navBar{
+    margin: 20px;
+}
+
+.icon,img{
+    width: 100px;
+    height: 100px;
+    align-items: center;
+    
+   
+   
+
+}
+.main{
+     padding: 20px;
+}
+.main a{
+    padding: 20px;
+    align-content: center;
+   color: black;
+   text-decoration: none ; 
+   font-weight: bold ;
+    
+   
+    
+    
+
+}
+
+.login{
+ 
+text-align: end;
+padding: 20px;
+
+
+    
+}
+
+
+

@@ -1,0 +1,74 @@
+*{
+   
+    font-family: 'Poppins', sans-serif;
+}
+.feame1{
+    margin-left: 90px;
+}
+
+.bannerText{
+    font-size: 80px;
+    line-height: 1.1;
+    font-weight: 900;
+    color: #000;
+    
+   
+}
+.hero-description {
+  text-align: left; /* or center if you prefer */
+  margin: 20px auto;
+  max-width: 600px;
+  margin-right: 280px;
+}
+.downText{
+    font-size: 14px;
+  color: #5A5A5A; /* soft gray color */
+  line-height: 1.6;
+  letter-spacing: 0.4px;
+}
+.downButt{
+    
+
+}
+.b2{
+    color: #000;
+    border-color: #000;
+    margin-left: 50px;
+    
+}
+.g1{
+    font-size: 12px;
+  color: #5A5A5A; /* soft gray color */
+    margin-top: 5px;
+  letter-spacing: 0.4px;
+}
+
+.logo-1{
+    margin-top: 0;
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    
+}
+.logo-2{
+    width: 30px;
+    height: 30px;
+
+}
+.nike{
+    width: 650px;
+    height: 500px;
+    animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-15px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
